@@ -7,4 +7,4 @@ Location: Ramanagara Cocoon Market, Karnataka, India
 
 The dataset contains silk cocoon market and related environmental features used for price forecasting.
 
-The repository also contains the implementation notebook used for price forecasting using the 1D CNN-BiLSTM with Lightweight Attention model.
+The repository also contains the implementation notebook used for price forecasting using the Dual-path 1D CNN-BiLSTM with Lightweight Attention model.
